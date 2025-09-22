@@ -1,5 +1,6 @@
 import FooterApp from "../Components/Footer";
-import Navbar from "../Components/Navbar";   
+import Navbar from "../Components/Navbar"; 
+import Banner from "../Components/Banner";  
 
 
 
@@ -10,7 +11,8 @@ function HomePage() {
     return ( 
 
         <div className=" flex flex-col min-h-screen">  
-        <Navbar/>
+        <Navbar/> 
+        <Banner/>
         <FooterApp/>
 
 
