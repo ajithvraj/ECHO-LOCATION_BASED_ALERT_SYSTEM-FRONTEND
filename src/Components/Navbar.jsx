@@ -29,10 +29,10 @@ function Navbar() {
 
     return (  
   
-        <nav className="bg-white text-black py-4 shadow-lg sticky top-0 z-50">  
+        <nav className="bg-white text-black  shadow-lg sticky top-0 z-50">  
         <div className="max-w-1xl mx-auto flex justify-between items-center px-10"> 
             <div className=" flex items-center space-x-2">
-                <img src={LOGO} alt="Logo" className="h-12 w-auto object-cover"/>
+                <img src={LOGO} alt="Logo" className="h-40 w-auto object-cover"/>
                  
 
 
