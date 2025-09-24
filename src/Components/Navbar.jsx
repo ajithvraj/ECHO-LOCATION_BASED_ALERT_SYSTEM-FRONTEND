@@ -86,7 +86,7 @@ function Navbar() {
 
                 <button className="px-4 py-2 bg-white text-black-600 font-semibold rounded-lg hover:bg-green-200 border-2 border-green-600 " onClick={() => console.log("login clicked")}>Login</button> 
 
-                <button className="px-4 py-2 bg-green-400 text-white font-semibold rounded-lg hover:bg-green-300 ">Register</button> 
+                <button className="px-4 py-2 bg-green-400 text-white font-semibold rounded-lg hover:bg-green-600 ">Register</button> 
                
                 </div>
 
